@@ -1,0 +1,278 @@
+Hello Everyone!
+
+Trainer: Soanl Mittal
+
+
+Phase 1
+ > Introduction to SDLC with Agile and Continious Testing 
+ > GIT and GITHUB
+	> Assited practices & project
+ > Fundamentals of Core Java
+	> Assited practices & project
+ > JDBC testing
+ 	> Assited practices & project
+ > Expert in Selenium and its components
+
+Phase end project -> mentoring
+===========================
+
+Phase 2 ***
+ > Testing frameworks
+	> Maven, TestNG
+ 	> POM framework, ApachePOI
+        > Jenkins
+        > TDD, Junit
+	> Cucumber
+> Assited practices & Lesson end project
+Phase end project -> mentoring
+
+Phase 3:
+ > Jmeter
+ > Postman
+ > rest Assured
+
+==============================================
+
+Live traning for 4 hours:
+     suggestion:
+          > listen to the topic, get your doubts clarified, every topic related to assited practice will be shown to you
+          > In the afternoon time, practice the topics and complete your assited practices
+          > Get back to me with your issues and I will trouble shott and help you fix the issue.
+
+If you wish you can practice along with me in the class. But if there is an error--> we will work on it/ fix it and the last 20 mins
+
+Lats 20 mins Q & A, topic repetition, any errors
+
+
+Agenda:
+===============
+
+> Overview on SDLC and its phases
+> Discuss on traditional Software devlopment Model
+> Agile methodology & Scrum process
+> Scrum team, Scrum events, Scrum Artefacts
+> Discuss on Continous Version control with GIT
+> SL lab--> do git releated workflows
+
+==================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Scrum Process:
+=======================
+Scrum is a framework using which we build the software using the Agile process
+It is a framework within which people or team address complex requirements, while productively and creatively delivering the product at faster velocity
+
+A Scrum framework consists of:
+================================
+1. Scrum Team 
+  > Product Owner
+        -> gathers requirements from the client or stakeholders
+        -> Manages the product backlog and make sure it is available to Scrum team, stakeholder
+        -> Knows what is in the backlog and in which order there by providing transparency to all
+  > Scrum Master
+       -> Scrum master is not the leader but he is COACH or a guide to the organization on implementing Scrum theory, process and principles.
+  	-> Helps Product owner, scrum team as well the organiztion how scrum can be used to help in accomplishing the Goals
+
+  > Development team: includes developers and testers
+	-> build the actual product
+	-> they demostrate the build 
+
+
+2. Scrum Events:
+======================
+     > Sprint Planning:
+	======================
+          > Its a meethign attended by all scrum team memebers
+	  > total time for sprint planning in a sprint is 8 hours ==> 2hours/week  
+	  > determins what we can deliver in the sprint
+	  > plan how to achieve this delivery
+	  > the team crafts the goal of this sprint
+ 	  > A high level objective of the sprint is decided in this meeting by selecting user stories from the product backlog
+	  > For every sprint we have -> Sprint backlog
+	  > dev and team team will also provide rough estimates of how long user stores willt ake to complete
+ 	  > this effort is given in the form of fibonacci series
+    
+		0, 1,1,2,3,5,8 ...
+	dev : 5 ==> could mean anything => 5 hours  or 5 days(6 hours/day)
+	tester: 3 ==> means ==> 3 hours  or 3 days to compete the testing
+
+     > Sprint : Iteration - 2-4 weeks of time
+	======================
+	-> where the scrum team will pickup a user story and build it
+        -> Development and testing work together
+     > Daily Scrum Call : Scrum team developer and tester will meet togther everyday for min 15 mins
+	===============
+		> Inspect the sprtint plan and discuss if any changes needed
+		> Blocker issues
+                > what will be done next
+                > What did I complete yesterday? , What is my plan for today?, What are the impediments to my work?
+     > Sprint Review:
+=================================
+        > Goal : Inspect the product increment/sprint
+        > Adapt the product backlog
+	> Attended by stakeholders + scrum team
+         > TimeBox -> 4hours/sprint
+        > deveopers will demostrate prodcut developed
+        > stakholders will give a feedback on new changes
+	> update the backlog as per the feedback for suggested new changes
+    > Scrum Retrospective Meeting:
+======================================
+	> Final event of the sprint
+	> Happens after the sprint review meeting   
+	> help the scrum team to conticnously imporeve thier approch of the work sprint after a sprint 
+	> time Boxed for 3 hours/Sprint
+        > we discuss -> the process that went well
+	> opportunities for improvement
+	> how they new improvements will be rolled out => Improvement plan
+	
+
+3. Scrum Artefacts
+
+     > Product Backlog
+               > Description about the feature to be build
+               > estimation and story points
+               > is constantly evolving and is updated by the scrum team and is led by product owner
+
+     > Epic: A collection of user stories
+     > User story : small requirements to be build
+     > Sprint backlog: 
+              > maintained by product owner
+              > what user storeis will be part of the sprint
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
